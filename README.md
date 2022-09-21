@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Luis Gonzalez
+- 👀 I'm Looking for Internships and team project building experience
+- 🌱 I'm learning Programming at Internation University of Florida
+- 💞️ I’m looking to collaborate on any team building projects, programming networking events, and professional collaboration.
+- 📫 LuisGonzalez1142000@gmail.com / www.linkedin.com/in/luis-gonzalez-3aa83a1a2 / https://leetcode.com/luisbow123/
